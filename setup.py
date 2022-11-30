@@ -24,8 +24,8 @@ setup(
     name='adult_api',
     version='1.0',
     packages=find_packages(),
-    url="DockerAdult/ejemplo api-github-docker-20221129T133242Z-001/Dockerfile",
-    download_url="DockerAdult/ejemplo api-github-docker-20221129T133242Z-001/Dockerfile/adult_api",
+    url="https://github.com/sdores/adult-api",
+    download_url="https://github.com/sdores/adult-api/adult_api",
     license='LICENSE.md',
     author='Sergio Doreste Buerles',
     author_email='sdores23@hotmail.com',
@@ -48,7 +48,7 @@ setup(
     ],
     python_requires='>=3',
     project_urls={
-        'Bug Reports': 'DockerAdult/ejemplo api-github-docker-20221129T133242Z-001/Dockerfile/adult_api/issues',
-        'Source': 'DockerAdult/ejemplo api-github-docker-20221129T133242Z-001/Dockerfile/adult_api'
+        'Bug Reports': 'https://github.com/sdores/adult-api/adult_api/issues',
+        'Source': 'https://github.com/sdores/adult-api/adult_api'
     },
 )
